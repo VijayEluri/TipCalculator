@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Application Strings -->
-    <string name="app_name">Tip Calculator</string>
+    <string name="app_name">Tip Calculator Version Git</string>
 
 	<!-- Error Messages -->
     <string name="invalidNumber">Please enter a valid bill amount.</string>
