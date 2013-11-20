@@ -1,0 +1,2 @@
+<start>This is a test</start>
+<end>This is a new line in the file</end>
